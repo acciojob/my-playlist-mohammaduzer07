@@ -18,6 +18,9 @@ body{
 }
 .player_one > ul{
 	list-style-type: none;
+}
+.player_one > ul > li > a{
+	text-decoration: none;
 	text-align: left;
 }
 .container{
